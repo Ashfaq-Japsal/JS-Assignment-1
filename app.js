@@ -1,0 +1,5 @@
+alert ("Welcome to our website!")
+alert ("Error! Please enter a valid password.")
+alert ("Welcome tp JS land....\nHappy coding!")
+alert ("Welcome tp JS land....")
+alert ("Happy coding!\nPrevent this page from creatingadditional dialogs.")
